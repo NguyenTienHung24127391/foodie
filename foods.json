@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Phở bò",
+    "origin": "Hà Nội, Việt Nam",
+    "category": "Món nước",
+    "price_range": "50,000 - 70,000 VND",
+    "popularity_score": 9.5,
+    "recommended_for": ["bữa sáng", "du khách nước ngoài", "người thích món truyền thống"],
+    "ingredients": ["bánh phở", "thịt bò", "nước dùng", "gừng", "hành"],
+    "history": "Phở xuất hiện từ đầu thế kỷ 20 tại Hà Nội, dần trở thành món ăn biểu tượng của Việt Nam.",
+    "cultural_significance": "Phở là biểu tượng văn hóa Việt Nam, thường được xem như món ăn quốc hồn quốc túy.",
+    "taste": "Nước dùng trong, vị ngọt xương, thơm hành gừng.",
+    "restaurants_serving": [
+      {
+        "name": "Phở Thìn Lò Đúc",
+        "address": "13 Lò Đúc, Hà Nội",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      },
+      {
+        "name": "Phở 10 Lý Quốc Sư",
+        "address": "10 Lý Quốc Sư, Hà Nội",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết thêm về lịch sử phở bò không?",
+      "Bạn muốn biết địa chỉ quán phở nổi tiếng chứ?",
+      "Bạn muốn tôi gợi ý thêm món tương tự không?"
+    ]
+  },
+  {
+    "name": "Bánh mì thịt",
+    "origin": "Sài Gòn, Việt Nam",
+    "category": "Món ăn nhanh",
+    "price_range": "20,000 - 35,000 VND",
+    "popularity_score": 9.3,
+    "recommended_for": ["bữa sáng", "ăn nhanh", "khách du lịch"],
+    "ingredients": ["bánh mì", "chả lụa", "thịt nguội", "dưa leo", "rau thơm", "tương ớt"],
+    "history": "Bánh mì xuất hiện từ thời Pháp thuộc và được biến tấu theo khẩu vị Việt.",
+    "cultural_significance": "Bánh mì được xem là 'sandwich kiểu Việt', nổi tiếng trên toàn thế giới.",
+    "taste": "Giòn bên ngoài, mềm bên trong, nhân mặn ngọt hài hòa.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Mì Huỳnh Hoa",
+        "address": "26 Lê Thị Riêng, Quận 1, TP.HCM",
+        "rating": 4.8,
+        "services": ["mang về"]
+      },
+      {
+        "name": "Bánh Mì Minh Nhật",
+        "address": "32A Trần Hưng Đạo, Hà Nội",
+        "rating": 4.4,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý quán bánh mì nổi tiếng ở TP.HCM không?",
+      "Bạn có muốn xem các loại nhân bánh mì phổ biến không?"
+    ]
+  },
+  {
+    "name": "Bún chả",
+    "origin": "Hà Nội, Việt Nam",
+    "category": "Món nước",
+    "price_range": "40,000 - 60,000 VND",
+    "popularity_score": 9.0,
+    "recommended_for": ["bữa trưa", "du khách nước ngoài", "món truyền thống"],
+    "ingredients": ["bún", "thịt nướng", "nước mắm chua ngọt", "rau sống"],
+    "history": "Bún chả xuất hiện từ thế kỷ 19 và là món ăn đặc trưng của người Hà Nội.",
+    "cultural_significance": "Món ăn từng được Tổng thống Obama thưởng thức trong chuyến thăm Việt Nam.",
+    "taste": "Vị đậm đà, ngọt nhẹ, hòa quyện giữa thịt nướng và nước chấm.",
+    "restaurants_serving": [
+      {
+        "name": "Bún Chả Hương Liên",
+        "address": "24 Lê Văn Hưu, Hà Nội",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết quán Obama từng ăn bún chả không?",
+      "Bạn muốn tôi gợi ý thêm món nướng tương tự chứ?"
+    ]
+  },
+  {
+    "name": "Cơm tấm",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món chính",
+    "price_range": "35,000 - 55,000 VND",
+    "popularity_score": 9.1,
+    "recommended_for": ["bữa trưa", "người làm văn phòng", "khách du lịch"],
+    "ingredients": ["gạo tấm", "sườn nướng", "bì", "chả trứng", "nước mắm"],
+    "history": "Cơm tấm bắt nguồn từ những hạt gạo vỡ của người lao động miền Nam.",
+    "cultural_significance": "Là món ăn biểu tượng của Sài Gòn, được người dân yêu thích mọi lúc trong ngày.",
+    "taste": "Vị mặn ngọt, thơm mùi sườn nướng, hòa quyện nước mắm tỏi ớt.",
+    "restaurants_serving": [
+      {
+        "name": "Cơm Tấm Ba Ghiền",
+        "address": "84 Đặng Văn Ngữ, Phú Nhuận, TP.HCM",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán cơm tấm ngon ở Sài Gòn không?",
+      "Bạn muốn biết công thức ướp sườn đặc trưng chứ?"
+    ]
+  },
+  {
+    "name": "Bánh xèo",
+    "origin": "Miền Trung và Nam Bộ, Việt Nam",
+    "category": "Món chiên",
+    "price_range": "30,000 - 50,000 VND",
+    "popularity_score": 8.8,
+    "recommended_for": ["bữa tối", "ăn vặt", "du khách nước ngoài"],
+    "ingredients": ["bột gạo", "tôm", "thịt heo", "giá đỗ", "rau sống"],
+    "history": "Bánh xèo có nguồn gốc từ miền Trung, mang tên gọi vì tiếng 'xèo' khi chiên.",
+    "cultural_significance": "Đại diện cho sự khéo léo và tinh tế trong ẩm thực Việt.",
+    "taste": "Giòn rụm bên ngoài, nhân tươi ngon, chấm nước mắm pha.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Xèo 46A",
+        "address": "46A Đinh Công Tráng, Quận 1, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán bánh xèo nổi tiếng không?",
+      "Bạn muốn biết sự khác biệt giữa bánh xèo miền Trung và miền Nam chứ?"
+    ]
+  },
+  {
+    "name": "Gỏi cuốn",
+    "origin": "Miền Nam, Việt Nam",
+    "category": "Món cuốn",
+    "price_range": "25,000 - 40,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["ăn nhẹ", "người ăn kiêng", "mùa hè"],
+    "ingredients": ["bánh tráng", "tôm", "thịt heo", "rau sống", "bún"],
+    "history": "Gỏi cuốn là món ăn dân dã miền Nam, thường ăn kèm nước chấm tương đậu phộng.",
+    "cultural_significance": "Thể hiện sự tinh tế, thanh mát của ẩm thực Việt.",
+    "taste": "Tươi mát, nhẹ, chấm tương béo ngậy.",
+    "restaurants_serving": [
+      {
+        "name": "Gỏi Cuốn Thanh Mai",
+        "address": "45 Nguyễn Huệ, TP.HCM",
+        "rating": 4.4,
+        "services": ["mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý các loại gỏi cuốn chay không?",
+      "Bạn muốn biết cách cuốn gỏi đẹp mắt chứ?"
+    ]
+  },
+  {
+    "name": "Bánh cuốn",
+    "origin": "Bắc Bộ, Việt Nam",
+    "category": "Món hấp",
+    "price_range": "25,000 - 40,000 VND",
+    "popularity_score": 8.7,
+    "recommended_for": ["bữa sáng", "ăn nhẹ"],
+    "ingredients": ["bột gạo", "thịt bằm", "mộc nhĩ", "hành phi", "nước mắm"],
+    "history": "Bánh cuốn là món ăn truyền thống lâu đời của miền Bắc.",
+    "cultural_significance": "Thường xuất hiện trong bữa sáng và các dịp lễ nhỏ.",
+    "taste": "Mềm, thơm hành phi, chấm nước mắm pha vừa vị.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Cuốn Gia An",
+        "address": "25 Nguyễn Trãi, Hà Nội",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi giới thiệu quán bánh cuốn ngon ở Hà Nội không?",
+      "Bạn có muốn biết sự khác biệt giữa bánh cuốn và bánh ướt chứ?"
+    ]
+  },
+  {
+    "name": "Bún bò Huế",
+    "origin": "Huế, Việt Nam",
+    "category": "Món nước",
+    "price_range": "45,000 - 65,000 VND",
+    "popularity_score": 9.2,
+    "recommended_for": ["bữa sáng", "món cay", "người thích hương vị đậm đà"],
+    "ingredients": ["bún", "giò heo", "thịt bò", "chả", "sả", "ớt"],
+    "history": "Bún bò Huế có nguồn gốc từ triều đình nhà Nguyễn, nổi tiếng với vị cay đặc trưng.",
+    "cultural_significance": "Là niềm tự hào của người dân xứ Huế, được UNESCO công nhận là di sản ẩm thực phi vật thể.",
+    "taste": "Đậm đà, cay nồng, thơm mùi sả và nước dùng đỏ au.",
+    "restaurants_serving": [
+      {
+        "name": "Bún Bò Mệ Kéo",
+        "address": "20 Bạch Đằng, Huế",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán bún bò Huế chính gốc không?",
+      "Bạn muốn biết cách nấu bún bò Huế chuẩn vị chứ?"
+    ]
+  },
+  {
+    "name": "Cao lầu",
+    "origin": "Hội An, Việt Nam",
+    "category": "Món trộn",
+    "price_range": "40,000 - 60,000 VND",
+    "popularity_score": 8.6,
+    "recommended_for": ["du khách", "món địa phương", "người thích món khô"],
+    "ingredients": ["mì cao lầu", "thịt xá xíu", "rau sống Trà Quế", "nước trộn"],
+    "history": "Cao lầu có từ thế kỷ 17, chịu ảnh hưởng văn hóa Trung Hoa và Nhật Bản.",
+    "cultural_significance": "Là món đặc sản gắn liền với phố cổ Hội An.",
+    "taste": "Mì dai, thịt đậm đà, nước trộn mặn ngọt vừa phải.",
+    "restaurants_serving": [
+      {
+        "name": "Cao Lầu Bà Bé",
+        "address": "19 Trần Phú, Hội An",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết sự khác biệt giữa cao lầu và mì Quảng không?",
+      "Bạn muốn tôi giới thiệu thêm đặc sản Hội An chứ?"
+    ]
+  },
+  {
+    "name": "Chè ba màu",
+    "origin": "Miền Nam, Việt Nam",
+    "category": "Tráng miệng",
+    "price_range": "20,000 - 30,000 VND",
+    "popularity_score": 8.5,
+    "recommended_for": ["mùa hè", "tráng miệng", "người thích đồ ngọt"],
+    "ingredients": ["đậu đỏ", "đậu xanh", "thạch", "nước cốt dừa", "đá bào"],
+    "history": "Chè ba màu xuất hiện ở miền Nam từ thập niên 60, là món tráng miệng phổ biến.",
+    "cultural_significance": "Thường được dùng để giải nhiệt và tượng trưng cho sự tươi vui.",
+    "taste": "Ngọt béo, mát lạnh, nhiều tầng hương vị.",
+    "restaurants_serving": [
+      {
+        "name": "Chè Ngon Sài Gòn",
+        "address": "115 Nguyễn Thái Học, TP.HCM",
+        "rating": 4.4,
+        "services": ["mang về", "phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý các loại chè khác không?",
+      "Bạn muốn biết cách nấu chè ba màu tại nhà chứ?"
+    ]
+  },
+  {
+    "name": "Cơm tấm",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món chính",
+    "price_range": "35,000 - 55,000 VND",
+    "popularity_score": 9.5,
+    "recommended_for": ["bữa sáng", "bữa trưa", "du khách nước ngoài"],
+    "ingredients": ["gạo tấm", "sườn nướng", "bì", "chả trứng", "nước mắm tỏi ớt"],
+    "history": "Cơm tấm xuất phát từ những người lao động Sài Gòn, dùng hạt gạo vỡ nấu cơm.",
+    "cultural_significance": "Là món ăn biểu tượng của Sài Gòn, được xem là 'quốc dân' trong ẩm thực miền Nam.",
+    "taste": "Mặn ngọt hài hòa, thơm mùi sườn nướng và nước mắm.",
+    "restaurants_serving": [
+      {
+        "name": "Cơm Tấm Ba Ghiền",
+        "address": "84 Đặng Văn Ngữ, Phú Nhuận, TP.HCM",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      },
+      {
+        "name": "Cơm Tấm Cali",
+        "address": "222 Nguyễn Thị Minh Khai, Quận 3, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "giao hàng"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý quán cơm tấm nổi tiếng ở quận 1 không?",
+      "Bạn có muốn biết cách ướp sườn kiểu Sài Gòn không?"
+    ]
+  },
+  {
+    "name": "Hủ tiếu Nam Vang",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "45,000 - 65,000 VND",
+    "popularity_score": 9.2,
+    "recommended_for": ["bữa sáng", "người thích món nước", "khách du lịch"],
+    "ingredients": ["sợi hủ tiếu", "tôm", "thịt bằm", "gan", "trứng cút", "nước dùng xương"],
+    "history": "Hủ tiếu Nam Vang du nhập từ Campuchia, được người Hoa và Việt biến tấu theo khẩu vị miền Nam.",
+    "cultural_significance": "Là món ăn sáng phổ biến nhất Sài Gòn, có thể ăn khô hoặc nước.",
+    "taste": "Nước dùng trong, ngọt thanh từ xương, topping phong phú.",
+    "restaurants_serving": [
+      {
+        "name": "Hủ Tiếu Nam Vang Nhân Quán",
+        "address": "45 Võ Văn Tần, Quận 3, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý quán hủ tiếu nổi tiếng ở quận 5 không?",
+      "Bạn có muốn biết sự khác biệt giữa hủ tiếu Nam Vang và hủ tiếu Mỹ Tho chứ?"
+    ]
+  },
+  {
+    "name": "Bánh mì Sài Gòn",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món ăn nhanh",
+    "price_range": "20,000 - 35,000 VND",
+    "popularity_score": 9.3,
+    "recommended_for": ["bữa sáng", "ăn nhanh", "khách du lịch"],
+    "ingredients": ["bánh mì", "chả lụa", "thịt nguội", "dưa leo", "rau thơm", "tương ớt"],
+    "history": "Bánh mì du nhập từ Pháp, nhưng được người Sài Gòn biến tấu với nhiều loại nhân khác nhau.",
+    "cultural_significance": "Được xem là biểu tượng ẩm thực đường phố của Việt Nam.",
+    "taste": "Giòn bên ngoài, mềm bên trong, đậm vị nhân thịt và rau thơm.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Mì Huỳnh Hoa",
+        "address": "26 Lê Thị Riêng, Quận 1, TP.HCM",
+        "rating": 4.8,
+        "services": ["mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết các loại nhân bánh mì Sài Gòn phổ biến không?",
+      "Bạn muốn tôi gợi ý quán bánh mì nổi tiếng ở quận 1 chứ?"
+    ]
+  },
+  {
+    "name": "Bánh canh cua",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "40,000 - 60,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["bữa trưa", "người thích món hải sản"],
+    "ingredients": ["bánh canh", "thịt cua", "tôm", "giò heo", "hành phi"],
+    "history": "Bánh canh cua xuất hiện từ lâu tại các quán vỉa hè ở Sài Gòn, nổi tiếng bởi vị ngọt đậm từ cua tươi.",
+    "cultural_significance": "Món ăn đặc trưng của miền Nam, được yêu thích bởi hương vị béo và đặc sệt.",
+    "taste": "Đậm đà, thơm mùi cua, nước dùng sánh nhẹ.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Canh Cua 14",
+        "address": "223 Nguyễn Thị Minh Khai, Quận 1, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn biết quán bánh canh cua ngon nhất Sài Gòn không?",
+      "Bạn có muốn xem món bánh canh ghẹ tương tự chứ?"
+    ]
+  },
+  {
+    "name": "Bánh xèo miền Nam",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món chiên",
+    "price_range": "30,000 - 50,000 VND",
+    "popularity_score": 8.8,
+    "recommended_for": ["ăn vặt", "bữa tối", "du khách"],
+    "ingredients": ["bột gạo", "tôm", "thịt heo", "giá đỗ", "rau sống"],
+    "history": "Bánh xèo miền Nam to, giòn và vàng hơn so với bánh xèo miền Trung.",
+    "cultural_significance": "Là món ăn đặc trưng gắn liền với văn hóa miền Nam.",
+    "taste": "Giòn rụm, thơm béo, chấm nước mắm pha ngọt dịu.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh Xèo 46A",
+        "address": "46A Đinh Công Tráng, Quận 1, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán bánh xèo nổi tiếng khác ở quận 3 không?",
+      "Bạn muốn biết công thức pha bột bánh xèo chuẩn miền Nam chứ?"
+    ]
+  },
+  {
+    "name": "Gỏi cuốn",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món cuốn",
+    "price_range": "25,000 - 40,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["ăn nhẹ", "người ăn kiêng", "du khách"],
+    "ingredients": ["bánh tráng", "tôm", "thịt heo", "rau sống", "bún"],
+    "history": "Gỏi cuốn là món ăn dân dã phổ biến khắp Sài Gòn, thường dùng kèm tương đậu phộng.",
+    "cultural_significance": "Đại diện cho sự tươi mát, lành mạnh của ẩm thực miền Nam.",
+    "taste": "Tươi mát, thanh nhẹ, béo ngậy khi chấm tương.",
+    "restaurants_serving": [
+      {
+        "name": "Gỏi Cuốn Thanh Mai",
+        "address": "45 Nguyễn Huệ, Quận 1, TP.HCM",
+        "rating": 4.4,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán gỏi cuốn chay ở trung tâm không?",
+      "Bạn muốn biết cách cuốn gỏi đúng kỹ thuật chứ?"
+    ]
+  },
+  {
+    "name": "Bò kho",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món hầm",
+    "price_range": "45,000 - 65,000 VND",
+    "popularity_score": 8.7,
+    "recommended_for": ["bữa sáng", "món đậm vị", "ăn với bánh mì"],
+    "ingredients": ["thịt bò", "cà rốt", "sả", "gừng", "bột ngũ vị hương"],
+    "history": "Bò kho là món ăn du nhập từ Trung Hoa nhưng được người Sài Gòn biến tấu phù hợp khẩu vị.",
+    "cultural_significance": "Thường được ăn kèm bánh mì hoặc hủ tiếu, rất phổ biến trong bữa sáng.",
+    "taste": "Đậm đà, cay nhẹ, thơm mùi sả và bò hầm mềm.",
+    "restaurants_serving": [
+      {
+        "name": "Bò Kho Gánh",
+        "address": "153 Nguyễn Thái Học, Quận 1, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán bò kho nổi tiếng ở quận 1 không?",
+      "Bạn muốn biết công thức nấu bò kho tại nhà chứ?"
+    ]
+  },
+  {
+    "name": "Cháo lòng",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món cháo",
+    "price_range": "30,000 - 45,000 VND",
+    "popularity_score": 8.6,
+    "recommended_for": ["bữa sáng", "người thích món nội tạng", "món dân dã"],
+    "ingredients": ["gạo", "huyết", "lòng heo", "hành lá", "tiêu"],
+    "history": "Cháo lòng là món ăn sáng quen thuộc của người dân Sài Gòn từ hàng chục năm nay.",
+    "cultural_significance": "Đại diện cho phong cách ẩm thực bình dân và thân thuộc của miền Nam.",
+    "taste": "Thơm mùi hành tiêu, vị béo của lòng và nước dùng ngọt xương.",
+    "restaurants_serving": [
+      {
+        "name": "Cháo Lòng Bà Út",
+        "address": "273 Nguyễn Tri Phương, Quận 10, TP.HCM",
+        "rating": 4.4,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý quán cháo lòng nổi tiếng ở quận 10 không?",
+      "Bạn muốn biết cách nấu cháo lòng chuẩn vị Nam Bộ chứ?"
+    ]
+  },
+  {
+    "name": "Bún riêu cua",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "35,000 - 55,000 VND",
+    "popularity_score": 8.8,
+    "recommended_for": ["bữa trưa", "món nước truyền thống"],
+    "ingredients": ["bún", "riêu cua", "đậu hũ", "cà chua", "mắm tôm"],
+    "history": "Bún riêu được du nhập từ miền Bắc nhưng rất phổ biến ở Sài Gòn với hương vị đậm hơn.",
+    "cultural_significance": "Là món nước dân dã được yêu thích ở khắp các khu chợ và quán vỉa hè.",
+    "taste": "Chua nhẹ, đậm đà, nước dùng thơm mùi cua.",
+    "restaurants_serving": [
+      {
+        "name": "Bún Riêu Gánh Chợ Bến Thành",
+        "address": "Lê Thánh Tôn, Quận 1, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn biết quán bún riêu nổi tiếng ở trung tâm không?",
+      "Bạn có muốn tôi gợi ý món tương tự như bún ốc chua cay chứ?"
+    ]
+  },
+  {
+    "name": "Chè Thái",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Tráng miệng",
+    "price_range": "20,000 - 30,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["mùa hè", "tráng miệng", "ăn vặt"],
+    "ingredients": ["thạch", "sầu riêng", "long nhãn", "nước cốt dừa", "đá bào"],
+    "history": "Chè Thái du nhập từ Thái Lan, được biến tấu tại Sài Gòn với hương vị ngọt dịu và nhiều topping.",
+    "cultural_significance": "Là món ăn tráng miệng phổ biến trong các quán chè Sài Gòn.",
+    "taste": "Ngọt béo, mát lạnh, mùi thơm của sầu riêng và nước cốt dừa.",
+    "restaurants_serving": [
+      {
+        "name": "Chè Thái Ý Phương",
+        "address": "380 Nguyễn Tri Phương, Quận 10, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý quán chè Thái ngon ở quận 10 không?",
+      "Bạn có muốn biết các loại chè mát lạnh khác chứ?"
+    ]
+  },
+  {
+    "name": "Bánh tráng trộn",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Ăn vặt",
+    "price_range": "20,000 - 35,000 VND",
+    "popularity_score": 9.4,
+    "recommended_for": ["học sinh", "sinh viên", "người thích món cay"],
+    "ingredients": ["bánh tráng", "trứng cút", "xoài xanh", "tôm khô", "muối tôm", "hành phi"],
+    "history": "Xuất hiện từ những năm 2000, bánh tráng trộn là món ăn vặt nổi tiếng gắn liền với giới trẻ Sài Gòn.",
+    "cultural_significance": "Đại diện cho văn hóa ẩm thực đường phố phong phú và sáng tạo của người Sài Gòn.",
+    "taste": "Chua, cay, mặn, ngọt hòa quyện hấp dẫn.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh tráng trộn Chú Viên",
+        "address": "38 Nguyễn Thượng Hiền, Q.3, TP.HCM",
+        "rating": 4.6,
+        "services": ["mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn biết công thức làm bánh tráng trộn tại nhà không?",
+      "Bạn có muốn tôi gợi ý thêm các món ăn vặt nổi tiếng ở TP.HCM không?"
+    ]
+  },
+  {
+    "name": "Bánh ướt lòng gà",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "40,000 - 55,000 VND",
+    "popularity_score": 8.8,
+    "recommended_for": ["bữa sáng", "bữa trưa"],
+    "ingredients": ["bánh ướt", "lòng gà", "rau răm", "hành phi", "nước mắm chua ngọt"],
+    "history": "Món bánh ướt kết hợp lòng gà là đặc sản Đà Lạt, nhưng được yêu thích rộng rãi ở Sài Gòn.",
+    "cultural_significance": "Thể hiện sự giao thoa ẩm thực giữa các vùng miền.",
+    "taste": "Béo nhẹ, thơm hành phi, nước mắm đậm đà.",
+    "restaurants_serving": [
+      {
+        "name": "Bánh ướt lòng gà Long",
+        "address": "5A Trương Công Định, Tân Bình, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết cách pha nước mắm ngon cho món bánh ướt lòng gà không?",
+      "Tôi có thể gợi ý thêm các quán bánh ướt nổi tiếng khác ở TP.HCM."
+    ]
+  },
+  {
+    "name": "Cơm gà xối mỡ",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món cơm",
+    "price_range": "45,000 - 65,000 VND",
+    "popularity_score": 9.1,
+    "recommended_for": ["bữa trưa", "người thích đồ chiên giòn"],
+    "ingredients": ["gà chiên", "cơm vàng", "dưa leo", "nước mắm tỏi ớt"],
+    "history": "Cơm gà xối mỡ là món phổ biến từ thập niên 1990, được chế biến theo phong cách Sài Gòn độc đáo.",
+    "cultural_significance": "Một biểu tượng ẩm thực bình dân nhưng đậm đà hương vị miền Nam.",
+    "taste": "Da gà giòn tan, cơm béo thơm, nước mắm cay nồng.",
+    "restaurants_serving": [
+      {
+        "name": "Cơm gà xối mỡ Su Su",
+        "address": "55 Nguyễn Trãi, Q.5, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết cách chiên gà xối mỡ giòn lâu không?",
+      "Tôi có thể gợi ý thêm các quán cơm ngon khác quanh khu bạn ở."
+    ]
+  },
+  {
+    "name": "Bún mắm",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "50,000 - 70,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["bữa trưa", "người thích hải sản"],
+    "ingredients": ["bún", "mắm cá linh", "tôm", "mực", "thịt heo quay", "rau sống"],
+    "history": "Bắt nguồn từ miền Tây, bún mắm được du nhập vào Sài Gòn và trở thành món ăn quen thuộc.",
+    "cultural_significance": "Mang đậm bản sắc ẩm thực miền Tây Nam Bộ trong lòng Sài Gòn.",
+    "taste": "Mặn, đậm, hương mắm đặc trưng hòa quyện với vị ngọt hải sản.",
+    "restaurants_serving": [
+      {
+        "name": "Bún mắm 444",
+        "address": "444 Lê Quang Định, Bình Thạnh, TP.HCM",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý thêm các món miền Tây khác không?",
+      "Bạn muốn biết cách nấu nước lèo bún mắm chuẩn vị?"
+    ]
+  },
+  {
+    "name": "Sủi cảo Tân Tòng Lợi",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món Hoa",
+    "price_range": "55,000 - 70,000 VND",
+    "popularity_score": 9.0,
+    "recommended_for": ["bữa tối", "người thích ẩm thực Hoa"],
+    "ingredients": ["sủi cảo", "thịt heo bằm", "tôm", "hành lá", "nước lèo"],
+    "history": "Là món Hoa du nhập vào Chợ Lớn từ thế kỷ 19, được người Việt yêu thích đến nay.",
+    "cultural_significance": "Biểu tượng ẩm thực người Hoa ở khu vực Quận 5.",
+    "taste": "Vỏ mỏng, nhân đậm đà, nước lèo thanh ngọt.",
+    "restaurants_serving": [
+      {
+        "name": "Sủi cảo Tân Tòng Lợi",
+        "address": "311 Võ Văn Tần, Q.3, TP.HCM",
+        "rating": 4.8,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý thêm các món Hoa nổi tiếng khác ở Chợ Lớn không?",
+      "Bạn muốn biết nguồn gốc của món sủi cảo không?"
+    ]
+  },
+  {
+    "name": "Bột chiên",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Ăn vặt",
+    "price_range": "20,000 - 35,000 VND",
+    "popularity_score": 9.2,
+    "recommended_for": ["buổi chiều", "học sinh", "người thích đồ chiên"],
+    "ingredients": ["bột gạo", "trứng", "hành lá", "tương đen", "đu đủ bào"],
+    "history": "Bột chiên có nguồn gốc từ người Hoa và đã trở thành món ăn đường phố phổ biến ở Sài Gòn.",
+    "cultural_significance": "Một phần không thể thiếu trong văn hóa ẩm thực học sinh Sài Gòn.",
+    "taste": "Giòn bên ngoài, mềm bên trong, vị mặn ngọt hài hòa.",
+    "restaurants_serving": [
+      {
+        "name": "Bột chiên Đạt Thành",
+        "address": "277 Võ Văn Tần, Q.3, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý thêm các món ăn vặt người Hoa khác không?",
+      "Bạn có muốn biết cách làm bột chiên tại nhà không?"
+    ]
+  },
+  {
+    "name": "Mì vịt tiềm",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món Hoa",
+    "price_range": "60,000 - 90,000 VND",
+    "popularity_score": 9.3,
+    "recommended_for": ["bữa tối", "người thích món bổ dưỡng"],
+    "ingredients": ["vịt tiềm thuốc bắc", "mì trứng", "nấm đông cô", "rau cải"],
+    "history": "Món ăn gốc Hoa, phổ biến trong cộng đồng người Hoa Chợ Lớn.",
+    "cultural_significance": "Được xem là món ăn bổ dưỡng và tinh tế trong ẩm thực Hoa – Việt.",
+    "taste": "Đậm đà, thơm mùi thuốc bắc, thịt vịt mềm ngọt.",
+    "restaurants_serving": [
+      {
+        "name": "Mì vịt tiềm A Lý",
+        "address": "49 Nguyễn Trãi, Q.5, TP.HCM",
+        "rating": 4.8,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi giới thiệu thêm các món Hoa đặc trưng khác không?",
+      "Bạn muốn biết công thức nấu mì vịt tiềm tại nhà không?"
+    ]
+  },
+  {
+    "name": "Cơm chiên Dương Châu",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món Hoa",
+    "price_range": "50,000 - 70,000 VND",
+    "popularity_score": 8.7,
+    "recommended_for": ["bữa trưa", "người thích món Hoa"],
+    "ingredients": ["cơm nguội", "tôm", "xá xíu", "trứng", "đậu Hà Lan"],
+    "history": "Là món ăn Hoa phổ biến, dễ ăn và phù hợp khẩu vị người Việt.",
+    "cultural_significance": "Phản ánh sự hòa quyện văn hóa Hoa – Việt trong ẩm thực Sài Gòn.",
+    "taste": "Cơm tơi xốp, vị mặn ngọt cân bằng.",
+    "restaurants_serving": [
+      {
+        "name": "Nhà hàng Ái Huê",
+        "address": "412 Nguyễn Trãi, Q.5, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý thêm các món cơm Hoa khác không?",
+      "Bạn muốn biết nguồn gốc món Dương Châu nổi tiếng không?"
+    ]
+  },
+  {
+    "name": "Hủ tiếu sa tế nai",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nước",
+    "price_range": "55,000 - 75,000 VND",
+    "popularity_score": 8.9,
+    "recommended_for": ["bữa trưa", "người thích món cay"],
+    "ingredients": ["hủ tiếu", "thịt nai", "sa tế", "đậu phộng", "hành phi"],
+    "history": "Một biến tấu độc đáo của món hủ tiếu Sài Gòn với vị cay nồng đặc trưng.",
+    "cultural_significance": "Món ăn thể hiện sự sáng tạo và phong phú trong ẩm thực đường phố Sài Gòn.",
+    "taste": "Cay, béo, thơm đậm đà.",
+    "restaurants_serving": [
+      {
+        "name": "Hủ tiếu sa tế Nai Tô Ký",
+        "address": "7 Kỳ Đồng, Q.3, TP.HCM",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý thêm các món cay đặc trưng ở Sài Gòn không?",
+      "Bạn muốn biết cách làm sa tế ngon không?"
+    ]
+  },
+  {
+    "name": "Chè khúc bạch",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Tráng miệng",
+    "price_range": "25,000 - 40,000 VND",
+    "popularity_score": 9.0,
+    "recommended_for": ["buổi chiều", "tráng miệng"],
+    "ingredients": ["sữa tươi", "kem béo", "hạnh nhân lát", "vải", "đường phèn"],
+    "history": "Chè khúc bạch xuất hiện khoảng năm 2013 và nhanh chóng trở thành món tráng miệng yêu thích của giới trẻ Sài Gòn.",
+    "cultural_significance": "Món ăn biểu trưng cho sự sáng tạo và hiện đại trong ẩm thực TP.HCM.",
+    "taste": "Mát lạnh, béo nhẹ, thơm mùi sữa.",
+    "restaurants_serving": [
+      {
+        "name": "Chè khúc bạch Thanh",
+        "address": "68/210 Trần Quang Khải, Q.1, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn tôi gợi ý thêm các món chè nổi tiếng ở Sài Gòn không?",
+      "Bạn muốn biết cách làm chè khúc bạch tại nhà không?"
+    ]
+  },
+  {
+    "name": "Bò lá lốt",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nướng",
+    "price_range": "40,000 - 60,000 VND",
+    "popularity_score": 8.8,
+    "recommended_for": ["ăn tối", "nhậu nhẹ", "khách du lịch"],
+    "ingredients": ["thịt bò bằm", "lá lốt", "hành tím", "tỏi", "nước mắm"],
+    "history": "Bò lá lốt là món ăn đường phố miền Nam, khi bò bằm được quấn trong lá lốt rồi nướng than.",
+    "cultural_significance": "Thể hiện sự sáng tạo trong ẩm thực Nam Bộ, thích hợp cho món nhậu và ăn cùng bạn bè.",
+    "taste": "Thịt mềm, thơm mùi lá lốt, chấm nước mắm ớt cay nhẹ.",
+    "restaurants_serving": [
+      {
+        "name": "Quán Bò Lá Lốt 18 Lâm Sơn",
+        "address": "18 Lâm Sơn, Q.1, TP.HCM",
+        "rating": 4.7,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết quán bò lá lốt nổi tiếng ở Q.1 không?",
+      "Bạn muốn biết cách ướp bò lá lốt ngon tại nhà chứ?"
+    ]
+  },
+  {
+    "name": "Xôi gà",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món sáng",
+    "price_range": "25,000 - 40,000 VND",
+    "popularity_score": 8.6,
+    "recommended_for": ["bữa sáng", "ăn nhanh", "học sinh – sinh viên"],
+    "ingredients": ["xôi nếp", "gà xé", "mỡ hành", "hành phi", "đậu phộng"],
+    "history": "Xôi gà xuất hiện ở các quán sáng sớm tại Sài Gòn, là lựa chọn nhanh chóng và đầy đủ dinh dưỡng.",
+    "cultural_significance": "Một phần của văn hóa ăn sáng đường phố Sài Gòn.",
+    "taste": "Xôi mềm dẻo, gà thơm, mỡ hành béo nhẹ, hành phi giòn.",
+    "restaurants_serving": [
+      {
+        "name": "Xôi Gà Chợ Bà Chiểu",
+        "address": "105 Bà Chiểu, Q.Bình Thạnh, TP.HCM",
+        "rating": 4.5,
+        "services": ["phục vụ tại chỗ", "mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn thử thêm các món xôi khác như xôi mặn, xôi xéo không?",
+      "Bạn muốn biết các quán xôi gà nổi tiếng ở TP.HCM không?"
+    ]
+  },
+  {
+    "name": "Bánh tráng nướng (kiểu Sài Gòn)",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Ăn vặt",
+    "price_range": "20,000 - 35,000 VND",
+    "popularity_score": 9.0,
+    "recommended_for": ["ăn vặt chiều tối", "đi chơi cùng bạn bè"],
+    "ingredients": ["bánh tráng", "trứng cút", "hành lá", "ruốc", "tương ớt"],
+    "history": "Bánh tráng nướng kiểu đường phố được phổ biến tại Sài Gòn và biến tấu theo nhiều kiểu topping.",
+    "cultural_significance": "Biểu tượng của văn hóa ăn vặt tại TP.HCM.",
+    "taste": "Giòn bánh tráng, đậm vị ruốc, trứng cút, tương ớt hơi cay ngọt.",
+    "restaurants_serving": [
+      {
+        "name": "bánh tráng nướng",
+        "address": "33 Nguyễn Trãi, Q.1, TP.HCM",
+        "rating": 4.6,
+        "services": ["mang về"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý các loại topping bánh tráng nướng phổ biến không?",
+      "Bạn có muốn biết quán bánh tráng nướng ngon ở phố đi bộ Nguyễn Huệ không?"
+    ]
+  },
+  {
+    "name": "Bò né (steak & eggs kiểu Sài Gòn)",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món sáng/hạng sang",
+    "price_range": "55,000 - 80,000 VND",
+    "popularity_score": 8.7,
+    "recommended_for": ["bữa sáng muộn", "đi cùng bạn bè", "khách nước ngoài"],
+    "ingredients": ["thịt bò lát mỏng", "trứng ốp", "bánh mì", "bơ tỏi"],
+    "history": "Bò né là món sáng phổ biến ở Sài Gòn từ cuối thế kỷ 20, thường được bày trên chảo gang lửa bập bùng.",
+    "cultural_significance": "Một sự pha trộn phong cách Á-Âu trong ẩm thực Sài Gòn.",
+    "taste": "Bò mềm, trứng béo, bánh mì giòn – ăn kèm bơ tỏi thơm và nước sốt riêng.",
+    "restaurants_serving": [
+      {
+        "name": "Bò Né Cô Ba Ngon",
+        "address": "157 Hoàng Sa, Q.1, TP.HCM",
+        "rating": 4.6,
+        "services": ["phục vụ tại chỗ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn có muốn biết nơi ăn bò né giá rẻ nhưng ngon không?",
+      "Bạn muốn biết cách chọn thịt bò cho bò né chuẩn Sài Gòn chứ?"
+    ]
+  },
+  {
+    "name": "Phá lấu bò",
+    "origin": "TP. Hồ Chí Minh, Việt Nam",
+    "category": "Món nhậu",
+    "price_range": "40,000 - 60,000 VND",
+    "popularity_score": 8.5,
+    "recommended_for": ["ăn đêm", "nhậu nhẹ", "khách thích món nội tạng"],
+    "ingredients": ["bò và lòng bò", "nước dừa", "ngũ vị hương", "tiêu", "chấm me/ớt"],
+    "history": "Phá lấu bò là món ăn đêm rất phổ biến ở Sài Gòn, chế biến từ nội tạng bò nấu nước dừa, gia vị đặc trưng. :contentReference[oaicite:1]{index=1}",
+    "cultural_significance": "Thực sự là một phần của văn hoá ẩm thực đêm và ẩm thực nhậu tại TP.HCM.",
+    "taste": "Béo, thơm nước dừa và ngũ vị, lòng mềm, chấm me cay chua rất cân bằng.",
+    "restaurants_serving": [
+      {
+        "name": "Phá Lấu Bà Ba",
+        "address": "66/7 Nguyễn Trọng Tấn, Q.Tân Phú, TP.HCM",
+        "rating": 4.4,
+        "services": ["mang về", "nhậu nhẹ"]
+      }
+    ],
+    "suggestions": [
+      "Bạn muốn tôi gợi ý quán phá lấu ngon khu Tân Phú không?",
+      "Bạn muốn biết cách nấu phá lấu bò tại nhà không?"
+    ]
+  }
+]
+
+
