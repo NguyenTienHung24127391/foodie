@@ -684,11 +684,11 @@ def ask():
         mimetype='application/json'
     )
 
-if __name__ == "__main__":
-    print("""
-    🍕 CHÀO MỪNG ĐẾN VỚI DEADLINE 2.0 - FOOD EXPERT SIÊU THÔNG MINH! 🍜
+# if __name__ == "__main__":
+#     print("""
+#     🍕 CHÀO MỪNG ĐẾN VỚI DEADLINE 2.0 - FOOD EXPERT SIÊU THÔNG MINH! 🍜
 
-    ⚙️ Flask server đang chạy tại: http://127.0.0.1:5000
-    Dùng endpoint: POST /ask để trò chuyện từ web chatbox.
-    """)
-    app.run(debug=True)
+#     ⚙️ Flask server đang chạy tại: http://127.0.0.1:5000
+#     Dùng endpoint: POST /ask để trò chuyện từ web chatbox.
+#     """)
+#     app.run(debug=True)
